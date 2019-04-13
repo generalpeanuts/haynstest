@@ -1,1 +1,1 @@
-<?php include_once("upload.php"); ?>
+<?php include_once("admin.php"); ?>
