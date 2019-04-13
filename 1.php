@@ -10,4 +10,6 @@
 			else{
 				echo "User or pass wrong!";
 			}
-			?>
+		?>
+	</body>
+</html>
